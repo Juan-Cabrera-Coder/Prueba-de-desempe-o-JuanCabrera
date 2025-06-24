@@ -20,4 +20,4 @@
 
 |1 | 2 | 3 |
 |---|---|---|
-||**Titulo titulo** **aa** || proyecto | alto |
+|**Proyecto 1** |**Titulo titulo** **aa** |**proyecto 3** | proyecto | alto |
